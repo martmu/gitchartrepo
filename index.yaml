@@ -3,7 +3,7 @@ entries:
   demochart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-07-18T13:15:20.136347646+02:00"
+    created: "2023-07-20T08:44:18.832241206+02:00"
     description: A Helm chart for Kubernetes
     digest: 1f42329901f14b5c87d186a3e61b58f06ef3e41bbb957cc950c0761634d653dc
     name: demochart
@@ -11,4 +11,15 @@ entries:
     urls:
     - demochart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-07-18T13:15:20.119832981+02:00"
+  tomcatchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-20T08:44:18.854645443+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 08d3586ca451b71185da894652986656dee2354d07e5e1cc9789388ef0ae4fe1
+    name: tomcatchart
+    type: application
+    urls:
+    - tomcatchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-07-20T08:44:18.809800094+02:00"
